@@ -1,0 +1,19 @@
+{
+  "name": "coding_funny",
+  "version": "1.0.0",
+  "description": "Coding with Jack",
+  "main": "index.ts",
+  "repository": "git@github.com:JackieTruongZ/Coding_funny.git",
+  "author": "JackieTruongZ <datnguyentruongnn@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.2"
+  },
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "dependencies": {
+    "tsc": "^2.0.4"
+  }
+}
